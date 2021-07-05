@@ -23,3 +23,6 @@ For Hyderabad , it starts to fall down post a thresh hold discount
 
 For Kolkata, irrespective of discount sale is increasing
 
+
+Tasks:
+1. create a heat map for all cricket players, strike rate and runs. Also against a country or a tournament
