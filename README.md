@@ -25,4 +25,9 @@ For Kolkata, irrespective of discount sale is increasing
 
 
 Tasks:
-1. create a heat map for all cricket players, strike rate and runs. Also against a country or a tournament
+1. create a heat map for all cricket players, strike rate and runs. Against a country or a tournament
+
+https://gramener.com/cricket/
+
+2. Banking and Financial graph--Helping in understanding flow and structures how stocks behave on the day budget is announced
+   https://gramener.com/budget/?Year=2007
